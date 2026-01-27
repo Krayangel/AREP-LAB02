@@ -1,1 +1,1 @@
-# AREP-LAB02
+# Heart Disease Risk Prediction: Logistic Regression Homework
