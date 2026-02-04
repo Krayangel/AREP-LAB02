@@ -39,21 +39,21 @@ The Jupyter Notebook (`heart_disease_lr_analysis.ipynb`) contains:
 
 **Evidence**:
 
-AREP-LAB02/Images/Eda.png
+![AREP-LAB02/Images/Eda.png](Images/Eda.png)
 
-AREP-LAB02/Images/Plot.png
+![AREP-LAB02/Images/Plot.png](Images/Plot.png)
 
-AREP-LAB02/Images/Step2.png
+![AREP-LAB02/Images/Step2.png](Images/Step2.png)
 
-AREP-LAB02/Images/2.1.png
+![AREP-LAB02/Images/2.1.png](Images/2.1.png)
 
-AREP-LAB02/Images/3.1.png
+![AREP-LAB02/Images/3.1.png](Images/3.1.png)
 
-AREP-LAB02/Images/3.2.png
+![AREP-LAB02/Images/3.2.png](Images/3.2.png)
 
-AREP-LAB02/Images/3.3.png
+![AREP-LAB02/Images/3.3.png](Images/3.3.png)
 
-AREP-LAB02/Images/4.png
+![AREP-LAB02/Images/4.png](Images/4.png)
 
 **Inference Test**:
 *   **Tested Input**: `Age=60, Chol=300`
