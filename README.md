@@ -55,10 +55,6 @@ The Jupyter Notebook (`heart_disease_lr_analysis.ipynb`) contains:
 
 ![AREP-LAB02/Images/4.png](Images/4.png)
 
-**Inference Test**:
-*   **Tested Input**: `Age=60, Chol=300`
-*   **Output**: `Prob=0.68 (high risk)`
-
 ## Author
 
 David Villadiego
